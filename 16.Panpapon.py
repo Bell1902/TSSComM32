@@ -1,5 +1,5 @@
 # data type
-name = "Panpapon Chuenta"
+name = "Panpapon Chunta"
 age = 14
 men = False
 woman = True
